@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarc2-CR</string>
+    <string name="action_settings">Settings</string>
+    <string name="calc_cr_title">Calculo do CR</string>
+    <string name="matricula">Matricula</string>
+    <string name="ok">Ok</string>
+    <string name="unirio">unirio</string>
+    <string name="title_activity_cr">CR Final</string>
+    <string name="courseTotalCr">Carga do curso:</string>
+    <string name="courseCrTotal">Carga cumprida:</string>
+    <string name="cra">CRA:</string>
+    <string name="previous">Anterior</string>
+    <string name="addGrades">Incluir Notas</string>
+    <string name="title_activity_add_grades">Incluir Notas</string>
+    <string name="next">Proximo</string>
+    <string name="save">Salvar</string>
+    <string name="materia_info">MateriaInfo</string>
+    <string name="add_class">Adicionar Materia</string>
+    <string name="materia_nome">Nome:</string>
+    <string name="materia_creditos">Creditos:</string>
+    <string name="nota">Nota:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="loading">Loading...</string>
+
+</resources>
